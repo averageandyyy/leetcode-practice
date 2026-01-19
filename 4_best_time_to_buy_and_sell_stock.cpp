@@ -10,6 +10,9 @@
  *
  * You can't. Walk through the permutations in your head.
  *
+ * You always take to Left to Right jump because there is chance you can do better in terms of profit! The chance is good enough 
+ * to motivate the move!
+ *
  * Runtime: O(n)
  *
  * Memory: O(1)
